@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![yellow dog](C:\Users\EvaVision\Desktop\dog.jpg)
